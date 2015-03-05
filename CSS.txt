@@ -1,0 +1,174 @@
+/*p,h,table,etc*/
+
+body {
+  margin:0;
+}
+h1 {
+  margin-bottom: 0;
+  margin-top: 30px;
+  display: block;
+  text-align: center;
+}
+
+img {
+  display:block;
+  width:600px;
+  border-radius: 30px;
+  border:2px solid black;
+ 
+  margin:auto;
+}
+
+
+p{
+  text-align:justify;
+}
+ul {
+  list-style-type: none;
+}
+a{
+  text-decoration: none;
+  
+}
+span{
+  color: #B26B5A;
+}
+
+/*classes*/
+.container {
+  color: #666;
+  padding-top: 60px;
+  margin: 0 auto;
+  width: 960px; 
+}
+
+.nav {
+  width: 500px;
+  display:block;
+  margin: 0 auto;
+}
+
+.content {
+  width: 600px;
+  display: block;
+  margin: 0 auto;
+}
+
+.like{
+  border-right: 1px solid #ccc;
+  display: inline-block;
+  float: left;
+  padding-right: 30px;
+ 
+}
+
+.dlike {
+  display: inline-block; 
+  vertical-align: top;
+  float: right;
+}
+
+.clear {
+  clear: both;
+}
+
+.heading a {
+  display: block;
+  padding-top: 50px;
+}
+.heading {
+   text-align: center;
+  padding-bottom: 12px;
+  border-bottom: 1px solid #ccc;
+}
+
+.rimage {
+  width: 100px;
+  display: block;
+  height: 100px;
+  display: inline-block;
+  margin-right: 45px;
+}
+.rimage img {
+  width: 100%;
+  height: 100%;
+  border-radius: 100%;
+}
+.rimage p {
+  text-align: center;
+}
+
+.symbols {
+  position: fixed;
+  left: 40;
+  width: 100px;
+  
+}
+.symbols img {
+  display:inline-block;
+  width: 50%;
+  background:red;
+  
+}
+
+.chinese {
+  top: 50%;
+}
+.chino {
+  top: 65%;
+}
+
+.symbols-text {
+  display:none;
+  -webkit-transition: all 2s ease-in-out;
+  -moz-transition: all 2s ease-in-out;
+  -o-transition: all 2s ease-in-out;
+  transition: all 2s ease-in-out;
+  padding-left: 65px;
+  
+}
+
+p#ctext {
+position: absolute;
+top: 6px;
+}
+
+p#ctexts {
+position: absolute;
+top: -6px;
+}
+
+
+.symbols:hover .symbols-text {
+  display:block;
+  -webkit-transition: all 2s ease-in-out;
+  -moz-transition: all 2s ease-in-out;
+  -o-transition: all 2s ease-in-out;
+  transition: all 2s ease-in-out;
+}
+.photo-text {
+  text-align: center;
+}
+/*id*/
+#menu {
+padding-top: 10px;
+position: fixed;
+width: 100%;
+background-color: rgba(242, 242, 242, 1);
+height: 30px;
+border-bottom: 1px solid #809B1E;
+}
+#menu li{
+  float:left;
+}
+#menu a {
+  display:block;
+  font-weight:bolder;
+  text-decoration:none;
+  text-align:center;
+  width:120px;
+  
+}
+.fb-box {
+  display: block;
+}

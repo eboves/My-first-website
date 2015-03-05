@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>About Elvis Boves</title>
+</head>
+<body>
+  <div id="menu">
+    <ul class="nav">
+      <li><li><a href="#biography">Biography</a></li>
+          <li><a href="#about">About ME</a></li>
+          <li><a href="#photos">Photos</a></li>
+          <li><a href="#contact">Contact</a></li>
+        </ul>
+  </div>
+  
+  <div class="container">
+    <img src="https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-xpa1/v/t1.0-9/10930078_10206493615208993_9131241673409214550_n.jpg?oh=b83db889ed1783665aedc7ff0da96f0c&oe=5589C5F1&__gda__=1431642855_4d5a3e924b8e8c232f714921d6b3d01f">
+    <div class="content">
+    <h1 class="titl">Elvis Boves </h1>
+      
+            <div class="heading"><b><a name="biography">Biography:</a></b></div>
+        <p>
+          My name is Elvis Boves, I was born in the USA, but I was raised in the Dominican Republic. I came to New York 7 Years ago with <strong>NO</strong> English to get an education and try to follow the <em>American Dream</em>. The first year was the hardest one, coming to a place that I did not know anything about and try to adopt myself to new changes was not that easy. I was living with my brother in a room for years until he helped me get a job as a doorman in midtown Manhattan. Hahaha just imagine this <em>Dominican boy</em> with no english working as a doorman, I still remember some days when the tenants asked me a question and I was lost; but thanks God that help me to give my everything to learn english. As the saying says, there is nothing you can not accomplish with <strong>passion</strong>, <strong>dedication</strong> and <strong>hard work</strong>.
+        </p>
+      <p>
+          After a year of working, I decided to start focusing on the true reason I came to New York which was to get an education. I applied to <a href="http://www.hostos.cuny.edu"><b> Hostos Community College</b></a> in 2010.<strong> Hostos CC</strong>, was the place where I grew up as a student as well as an individual with visions and ambitions. After, three semester of being a part-time student, I decided to resign the doorman position and become a full-time student. In the summer of 2012 I was accepted to do an internship at <a href="http://www.nasa.gov/centers/marshall/home/#.VOnEPcY2yb8"> <strong>NASA</strong></a> located in Huntsville Alabama. The following year, I was asked by NASA to go back and keep working in the project that I was working with them. Being part of the Hispanic community as well as a student helped me fulfill one of my dreams which was to appear on TV <a href="http://noticias.univision.com/educacion/semana-de-la-educacion/"><em> <strong>Elvis on TV!!! OMG!!!! :)</strong></em></a> scroll down to where it says "<em>La Educacion esta a tu Alcance (parte 2)</em>" <span>(sorry it is in Spanish though)</span>.
+        </p>
+        <p> Currently, I am a Mechanical Engineering student in the <a href="http://www.ccny.cuny.edu/engineering/"><b>Grove School of Engineering</b></a> at <a href="http://www.ccny.cuny.edu"><b> The City College of New York.</b></a> I am interesting in Robotics. 
+          
+      <div class="heading header-underline"><b><a name="about">About ME:</a></b></div>
+      
+      <div class="like">
+        <h4> Things I like and I to do: </h4>
+        <ol>
+          <li>Cooking</li>
+          <ul> 
+            <li>Italian</li>
+            <li>Asian (favorite)</li>
+            <li>hispanic</li>
+          </ul>
+        
+            <li>Reading</li>
+              <ul>
+            <li> Self-develoment</li>
+            <li>Business</li>
+            <li>Anything that can help me to grow</li>
+          </ul>
+          <li>Extras</li>
+          <ul> 
+            <li>Go to the movies</li>
+            <li>Travel</li>
+            <li>Try different foods</li>
+          </ul>
+          </ol>
+      </div>
+      
+      <div class=dlike>
+        <h4> Things I do NOT like: </h4>
+        <ol>
+          <li>Cold Weatehr</li>
+          <li>Do Laundry</li>
+          <li>Sleep</li> 
+      </div>
+        
+      <div class="clear"></div>
+        
+      <div class="heading"><b><a name="photos">Photos:</a></b></div>
+
+      <div>
+        
+  <p class="photo-text">Here are some pictures that describes de type of person I am </p>
+    <div class="rimage" ><img src="https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xfa1/v/t1.0-9/427211_4567579757383_1079442732_n.jpg?oh=b4da4b11f005ab47fef0375d89b0752b&oe=55901529&__gda__=1435161312_8c2728a9d16a16a5f3979793af789ae9" alt=""><p>Sky diving</p></div>
+  
+      <div class="rimage"><img src="https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-frc3/v/t1.0-9/946427_10201498642697802_1627076979_n.jpg?oh=dd3073f847395cfdb591f66a5b4a5f65&oe=554C791C&__gda__=1435611985_f8e5e564e64bcc70b9f4404b7f098731" alt="NASA Poster-Presentation"></im></i><p>NASA</p></div>
+      
+      <div class="rimage"><img src="https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-xfp1/v/t1.0-9/1013857_10205876561263030_772153388190626187_n.jpg?oh=25b24ec2da2f98088aee35a2b42a27cd&oe=554F05ED&__gda__=1435495524_2a06fed04d69de097ca067bfa3e616f5" alt="Reading book"><p>Books</p></div>
+      
+    <div class="rimage"><img src="https://scontent-lga.xx.fbcdn.net/hphotos-xpa1/v/t1.0-9/1538651_10205911405734120_1610073811776106532_n.jpg?oh=13e756840bc4f0cdb607115c6d541c25&oe=5551FDED" alt="Giving food"><p>Homeless</p></div>
+      
+</div>
+    
+    <div class="heading"><b><a name="contact">Contact:</a></b></div>
+    
+    <h4>Personal Information:</h4>
+
+<p>Name: Elvis Boves</p>
+<p>Address: 77 Adelphi Street, Brooklyn NY, 11025</p>
+<p>Cellphone: 917-543-3374</p>
+<p>Email: e.boves@gmail.com</p>
+
+</div> <!--content-->
+          
+ </div> <!--container-->
+  <div class="symbols chinese">
+  <img src="http://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Love-zh.svg/2000px-Love-zh.svg.png" alt="Love">
+    <p id="ctext"class="symbols-text">Love</p>
+  </div>
+    <div class="symbols chino">
+  <img src="http://www.theworldofchinese.com/wp-content/uploads/2012/04/dream-character-master.jpg" alt="dream" >
+      <p id="ctexts"class="symbols-text">Dream</p>
+  </div>
+        
+        
+      
+</body>
+</html>
